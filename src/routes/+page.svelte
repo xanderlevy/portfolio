@@ -2,7 +2,7 @@
 	<div
 		xmlns="http://www.w3.org/1999/xhtml"
 		style="background:conic-gradient(from 180deg,rgba(217, 217, 217, 1) 0deg,rgba(0, 0, 0, 1) 360deg);height:100svh;width:100vw;opacity:1"
-		class="flex  w-full flex-col"
+		class="flex w-full flex-col"
 	>
 		<div class="flex h-[50svh] w-full overflow-hidden">
 			<div
@@ -22,6 +22,7 @@
 				</svg>
 				<p>xander</p>
 				<p class="label absolute top-[20px] left-[20px]">about</p>
+				<p class="label absolute right-[20px] bottom-[20px]">about</p>
 			</div>
 			<div class="flex h-full w-full flex-col items-center justify-center overflow-hidden">
 				<svg
@@ -51,7 +52,7 @@
 		</div>
 		<div class="flex h-[50svh] w-full">
 			<div class="square h-full w-full cursor-pointer">
-				<p class="label absolute bottom-[20px] left-[20px]">projects</p>
+				<p class="label absolute top-[20px] right-[20px]">projects</p>
 			</div>
 			<div
 				class="square relative flex h-full w-full cursor-pointer flex-col items-center justify-center overflow-hidden"
@@ -69,7 +70,8 @@
 					/>
 				</svg>
 				<p class="text-white">levy</p>
-				<p class="label absolute bottom-[20px] left-[20px] text-white">contact</p>
+				<p class="label absolute right-[20px] bottom-[20px] text-white">contact</p>
+				<p class="label absolute top-[20px] left-[20px] text-white">contact</p>
 			</div>
 		</div>
 
@@ -129,6 +131,9 @@
 		transition: all 0.3s ease-in-out;
 	}
 
+	.square {
+		position: relative;
+	}
 	.square:hover p {
 		scale: 1.2;
 	}
