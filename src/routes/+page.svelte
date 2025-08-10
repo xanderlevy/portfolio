@@ -1,0 +1,125 @@
+<div class="flex">
+	<div
+		xmlns="http://www.w3.org/1999/xhtml"
+		style="background:conic-gradient(from 180deg,rgba(217, 217, 217, 1) 0deg,rgba(0, 0, 0, 1) 360deg);height:100vh;width:100vw;opacity:1"
+		class="flex h-full w-full flex-col"
+	>
+		<div class="flex h-full w-full overflow-hidden">
+			<div class="flex h-full w-full flex-col items-center justify-center cursor-pointer square overflow-hidden">
+				<svg
+					width="75%"
+					height="36"
+					viewBox="0 0 344 36"
+					fill="none"
+					xmlns="http://www.w3.org/2000/svg"
+				>
+					<path
+						d="M0.207031 36V0.599998H2.00703V36H0.207031ZM7.40703 36V0.599998H9.20703V36H7.40703ZM11.007 36V0.599998H12.807V36H11.007ZM18.207 36V0.599998H20.007V36H18.207ZM25.407 36V0.599998H27.207V36H25.407ZM29.007 36V0.599998H30.807V36H29.007ZM36.207 36V0.599998H38.007V36H36.207ZM39.807 36V0.599998H45.207V36H39.807ZM47.007 36V0.599998H48.807V36H47.007ZM50.607 36V0.599998H56.007V36H50.607ZM57.8047 36V0.599998H59.6047V36H57.8047ZM65.0047 36V0.599998H66.8047V36H65.0047ZM68.6047 36V0.599998H70.4047V36H68.6047ZM75.8047 36V0.599998H77.6047V36H75.8047ZM83.0047 36V0.599998H84.8047V36H83.0047ZM86.6047 36V0.599998H92.0047V36H86.6047ZM93.8047 36V0.599998H95.6047V36H93.8047ZM97.4047 36V0.599998H99.2047V36H97.4047ZM104.605 36V0.599998H106.405V36H104.605ZM108.205 36V0.599998H113.605V36H108.205ZM115.402 36V0.599998H117.202V36H115.402ZM122.602 36V0.599998H124.402V36H122.602ZM126.202 36V0.599998H128.002V36H126.202ZM133.402 36V0.599998H135.202V36H133.402ZM140.602 36V0.599998H142.402V36H140.602ZM144.202 36V0.599998H146.002V36H144.202ZM147.802 36V0.599998H149.602V36H147.802ZM151.402 36V0.599998H156.802V36H151.402ZM158.602 36V0.599998H160.402V36H158.602ZM165.802 36V0.599998H171.202V36H165.802ZM173 36V0.599998H174.8V36H173ZM180.2 36V0.599998H182V36H180.2ZM183.8 36V0.599998H185.6V36H183.8ZM191 36V0.599998H192.8V36H191ZM198.2 36V0.599998H200V36H198.2ZM201.8 36V0.599998H203.6V36H201.8ZM205.4 36V0.599998H207.2V36H205.4ZM209 36V0.599998H214.4V36H209ZM219.8 36V0.599998H221.6V36H219.8ZM223.4 36V0.599998H228.8V36H223.4ZM230.598 36V0.599998H232.398V36H230.598ZM237.798 36V0.599998H239.598V36H237.798ZM241.398 36V0.599998H243.198V36H241.398ZM248.598 36V0.599998H250.398V36H248.598ZM255.798 36V0.599998H257.598V36H255.798ZM259.398 36V0.599998H264.798V36H259.398ZM266.598 36V0.599998H268.398V36H266.598ZM270.198 36V0.599998H275.598V36H270.198ZM280.998 36V0.599998H282.798V36H280.998ZM284.598 36V0.599998H286.398V36H284.598ZM288.195 36V0.599998H289.995V36H288.195ZM295.395 36V0.599998H297.195V36H295.395ZM298.995 36V0.599998H300.795V36H298.995ZM306.195 36V0.599998H307.995V36H306.195ZM313.395 36V0.599998H315.195V36H313.395ZM316.995 36V0.599998H322.395V36H316.995ZM324.195 36V0.599998H325.995V36H324.195ZM327.795 36V0.599998H329.595V36H327.795ZM331.395 36V0.599998H336.795V36H331.395ZM342.195 36V0.599998H343.995V36H342.195Z"
+						fill="black"
+					/>
+				</svg>
+				<p>xander</p>
+				<p class="absolute top-[20px] left-[20px] label">about</p>
+			</div>
+			<div class="flex h-full w-full flex-col items-center justify-center overflow-hidden">
+				<svg
+					width="100%"
+					height="100%"
+					viewBox="0 0 466 465"
+					fill="none"
+					xmlns="http://www.w3.org/2000/svg"
+				>
+					<g clip-path="url(#paint0_angular_6_5_clip_path)" data-figma-skip-parse="true"
+						><g transform="matrix(0 0.2325 -0.233 0 233 232.5)"
+							><foreignObject x="-1004.3" y="-1004.3" width="2008.6" height="2008.6"
+								><div
+									xmlns="http://www.w3.org/1999/xhtml"
+									style="background:conic-gradient(from 90deg,rgba(217, 217, 217, 1) 0deg,rgba(0, 0, 0, 1) 360deg);height:100%;width:100%;opacity:1"
+								></div></foreignObject
+							></g
+						></g
+					><ellipse cx="233" cy="232.5" rx="233" ry="232.5" />
+					<defs>
+						<clipPath id="paint0_angular_6_5_clip_path"
+							><ellipse cx="233" cy="232.5" rx="233" ry="232.5" /></clipPath
+						></defs
+					>
+				</svg>
+			</div>
+		</div>
+		<div class="flex h-full w-full">
+			<div class="h-full w-full cursor-pointer square">
+				<p class="absolute bottom-[20px] left-[20px] label">projects</p>
+			</div>
+			<div class="relative flex h-full w-full flex-col items-center justify-center cursor-pointer square overflow-hidden">
+				<svg
+					width="75%"
+					height="36"
+					viewBox="0 0 230 36"
+					fill="none"
+					xmlns="http://www.w3.org/2000/svg"
+				>
+					<path
+						d="M0.804688 36V0.599998H2.60469V36H0.804688ZM8.00469 36V0.599998H9.80469V36H8.00469ZM11.6047 36V0.599998H13.4047V36H11.6047ZM18.8047 36V0.599998H20.6047V36H18.8047ZM26.0047 36V0.599998H27.8047V36H26.0047ZM29.6047 36V0.599998H31.4047V36H29.6047ZM33.2047 36V0.599998H38.6047V36H33.2047ZM40.4047 36V0.599998H42.2047V36H40.4047ZM44.0047 36V0.599998H45.8047V36H44.0047ZM51.2047 36V0.599998H56.6047V36H51.2047ZM58.4023 36V0.599998H60.2023V36H58.4023ZM65.6023 36V0.599998H67.4023V36H65.6023ZM69.2023 36V0.599998H71.0023V36H69.2023ZM76.4023 36V0.599998H78.2023V36H76.4023ZM83.6023 36V0.599998H85.4023V36H83.6023ZM87.2023 36V0.599998H92.6023V36H87.2023ZM94.4023 36V0.599998H96.2023V36H94.4023ZM98.0023 36V0.599998H103.402V36H98.0023ZM108.802 36V0.599998H110.602V36H108.802ZM112.402 36V0.599998H114.202V36H112.402ZM116 36V0.599998H117.8V36H116ZM123.2 36V0.599998H125V36H123.2ZM126.8 36V0.599998H128.6V36H126.8ZM134 36V0.599998H135.8V36H134ZM141.2 36V0.599998H143V36H141.2ZM144.8 36V0.599998H146.6V36H144.8ZM152 36V0.599998H157.4V36H152ZM159.2 36V0.599998H161V36H159.2ZM162.8 36V0.599998H164.6V36H162.8ZM166.4 36V0.599998H171.8V36H166.4ZM173.598 36V0.599998H175.398V36H173.598ZM180.798 36V0.599998H182.598V36H180.798ZM184.398 36V0.599998H186.198V36H184.398ZM191.598 36V0.599998H193.398V36H191.598ZM198.798 36V0.599998H200.598V36H198.798ZM202.398 36V0.599998H207.798V36H202.398ZM213.198 36V0.599998H214.998V36H213.198ZM216.798 36V0.599998H222.198V36H216.798ZM223.998 36V0.599998H225.798V36H223.998ZM227.598 36V0.599998H229.398V36H227.598Z"
+						fill="white"
+					/>
+				</svg>
+				<p class="text-white">levy</p>
+				<p class="absolute bottom-[20px] left-[20px] text-white label">contact</p>
+			</div>
+		</div>
+	</div>
+
+	<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" fill="none" class="absolute pointer-events-none">
+		<rect width="100%" height="100%" fill="url(#paint0_linear_6_6)" fill-opacity="0.15" />
+		<defs>
+			<linearGradient
+				id="paint0_linear_6_6"
+				x1="0"
+				y1="0"
+				x2="1384.66"
+				y2="1005.13"
+				gradientUnits="userSpaceOnUse"
+			>
+				<stop stop-color="#D9D9D9" stop-opacity="0" />
+				<stop offset="0.500634" stop-color="#F6C8A7" stop-opacity="0.5" />
+				<stop offset="1" stop-color="#FFC297" />
+			</linearGradient>
+		</defs>
+	</svg>
+
+	<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" fill="none" class="absolute pointer-events-none">
+		<rect width="100%" height="100%" fill="url(#paint0_linear_6_7)" fill-opacity="0.15" />
+		<defs>
+			<linearGradient
+				id="paint0_linear_6_7"
+				x1="0"
+				y1="0"
+				x2="1401.47"
+				y2="981.897"
+				gradientUnits="userSpaceOnUse"
+			>
+				<stop stop-color="#F6A7A8" />
+				<stop offset="0.499446" stop-color="#F6A7A8" stop-opacity="0.5" />
+				<stop offset="1" stop-color="#D9D9D9" stop-opacity="0" />
+			</linearGradient>
+		</defs>
+	</svg>
+</div>
+
+<style>
+.square p{
+scale: 1;
+transition: all 0.3s ease-in-out;
+}
+
+.square:hover p{
+scale: 1.2;
+}
+
+* {
+  font-family: "IM Fell French Canon", serif;
+  font-weight: 100;
+  font-style: normal;
+}
+</style>
