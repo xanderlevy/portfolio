@@ -1,10 +1,10 @@
 <div class="flex">
 	<div
 		xmlns="http://www.w3.org/1999/xhtml"
-		style="background:conic-gradient(from 180deg,rgba(217, 217, 217, 1) 0deg,rgba(0, 0, 0, 1) 360deg);height:100vh;width:100vw;opacity:1"
-		class="flex h-full w-full flex-col"
+		style="background:conic-gradient(from 180deg,rgba(217, 217, 217, 1) 0deg,rgba(0, 0, 0, 1) 360deg);height:100svh;width:100vw;opacity:1"
+		class="flex  w-full flex-col"
 	>
-		<div class="flex h-full w-full overflow-hidden">
+		<div class="flex h-[50svh] w-full overflow-hidden">
 			<div
 				class="square flex h-full w-full cursor-pointer flex-col items-center justify-center overflow-hidden"
 			>
@@ -49,7 +49,7 @@
 				</svg>
 			</div>
 		</div>
-		<div class="flex h-full w-full">
+		<div class="flex h-[50svh] w-full">
 			<div class="square h-full w-full cursor-pointer">
 				<p class="label absolute bottom-[20px] left-[20px]">projects</p>
 			</div>
