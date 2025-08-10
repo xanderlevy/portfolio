@@ -5,7 +5,9 @@
 		class="flex h-full w-full flex-col"
 	>
 		<div class="flex h-full w-full overflow-hidden">
-			<div class="flex h-full w-full flex-col items-center justify-center cursor-pointer square overflow-hidden">
+			<div
+				class="square flex h-full w-full cursor-pointer flex-col items-center justify-center overflow-hidden"
+			>
 				<svg
 					width="75%"
 					height="36"
@@ -19,7 +21,7 @@
 					/>
 				</svg>
 				<p>xander</p>
-				<p class="absolute top-[20px] left-[20px] label">about</p>
+				<p class="label absolute top-[20px] left-[20px]">about</p>
 			</div>
 			<div class="flex h-full w-full flex-col items-center justify-center overflow-hidden">
 				<svg
@@ -48,10 +50,12 @@
 			</div>
 		</div>
 		<div class="flex h-full w-full">
-			<div class="h-full w-full cursor-pointer square">
-				<p class="absolute bottom-[20px] left-[20px] label">projects</p>
+			<div class="square h-full w-full cursor-pointer">
+				<p class="label absolute bottom-[20px] left-[20px]">projects</p>
 			</div>
-			<div class="relative flex h-full w-full flex-col items-center justify-center cursor-pointer square overflow-hidden">
+			<div
+				class="square relative flex h-full w-full cursor-pointer flex-col items-center justify-center overflow-hidden"
+			>
 				<svg
 					width="75%"
 					height="36"
@@ -65,61 +69,73 @@
 					/>
 				</svg>
 				<p class="text-white">levy</p>
-				<p class="absolute bottom-[20px] left-[20px] text-white label">contact</p>
+				<p class="label absolute bottom-[20px] left-[20px] text-white">contact</p>
 			</div>
 		</div>
+
+		<svg
+			xmlns="http://www.w3.org/2000/svg"
+			width="100%"
+			height="100%"
+			fill="none"
+			class="pointer-events-none absolute"
+		>
+			<rect width="100%" height="100%" fill="url(#paint0_linear_6_6)" fill-opacity="0.15" />
+			<defs>
+				<linearGradient
+					id="paint0_linear_6_6"
+					x1="0"
+					y1="0"
+					x2="1384.66"
+					y2="1005.13"
+					gradientUnits="userSpaceOnUse"
+				>
+					<stop stop-color="#D9D9D9" stop-opacity="0" />
+					<stop offset="0.500634" stop-color="#F6C8A7" stop-opacity="0.5" />
+					<stop offset="1" stop-color="#FFC297" />
+				</linearGradient>
+			</defs>
+		</svg>
+
+		<svg
+			xmlns="http://www.w3.org/2000/svg"
+			width="100%"
+			height="100%"
+			fill="none"
+			class="pointer-events-none absolute"
+		>
+			<rect width="100%" height="100%" fill="url(#paint0_linear_6_7)" fill-opacity="0.15" />
+			<defs>
+				<linearGradient
+					id="paint0_linear_6_7"
+					x1="0"
+					y1="0"
+					x2="1401.47"
+					y2="981.897"
+					gradientUnits="userSpaceOnUse"
+				>
+					<stop stop-color="#F6A7A8" />
+					<stop offset="0.499446" stop-color="#F6A7A8" stop-opacity="0.5" />
+					<stop offset="1" stop-color="#D9D9D9" stop-opacity="0" />
+				</linearGradient>
+			</defs>
+		</svg>
 	</div>
-
-	<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" fill="none" class="absolute pointer-events-none">
-		<rect width="100%" height="100%" fill="url(#paint0_linear_6_6)" fill-opacity="0.15" />
-		<defs>
-			<linearGradient
-				id="paint0_linear_6_6"
-				x1="0"
-				y1="0"
-				x2="1384.66"
-				y2="1005.13"
-				gradientUnits="userSpaceOnUse"
-			>
-				<stop stop-color="#D9D9D9" stop-opacity="0" />
-				<stop offset="0.500634" stop-color="#F6C8A7" stop-opacity="0.5" />
-				<stop offset="1" stop-color="#FFC297" />
-			</linearGradient>
-		</defs>
-	</svg>
-
-	<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" fill="none" class="absolute pointer-events-none">
-		<rect width="100%" height="100%" fill="url(#paint0_linear_6_7)" fill-opacity="0.15" />
-		<defs>
-			<linearGradient
-				id="paint0_linear_6_7"
-				x1="0"
-				y1="0"
-				x2="1401.47"
-				y2="981.897"
-				gradientUnits="userSpaceOnUse"
-			>
-				<stop stop-color="#F6A7A8" />
-				<stop offset="0.499446" stop-color="#F6A7A8" stop-opacity="0.5" />
-				<stop offset="1" stop-color="#D9D9D9" stop-opacity="0" />
-			</linearGradient>
-		</defs>
-	</svg>
 </div>
 
 <style>
-.square p{
-scale: 1;
-transition: all 0.3s ease-in-out;
-}
+	.square p {
+		scale: 1;
+		transition: all 0.3s ease-in-out;
+	}
 
-.square:hover p{
-scale: 1.2;
-}
+	.square:hover p {
+		scale: 1.2;
+	}
 
-* {
-  font-family: "IM Fell French Canon", serif;
-  font-weight: 100;
-  font-style: normal;
-}
+	* {
+		font-family: 'IM Fell French Canon', serif;
+		font-weight: 100;
+		font-style: normal;
+	}
 </style>
